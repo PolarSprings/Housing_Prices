@@ -1,5 +1,5 @@
 # Housing_Prices
-Using linear regression, statistics, pandas, and visual analysis to predict the sale prices for homes
+Using linear regression, pandas, and visual analysis to predict the sale prices for homes
 
 # Description
 Analyzing data to predict future outcomes
@@ -35,3 +35,4 @@ Step13: Check your figures on a scatterplot. Cross-reference with prediction cat
 Step 14: Match your formatting with the sample submission and log on to Kaggle with a brief description of the final predictions.
 
 Step 15: Send it in!
+
